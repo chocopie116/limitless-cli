@@ -66,3 +66,11 @@ limitless-cli | claude "summarize this"
 | `--asc` | false | Ascending order |
 | `--help` | | Show help |
 | `--version` | | Show version |
+
+## Skills
+
+スキル指示書は `docs/skills/` に格納しています。
+
+| ファイル | 説明 |
+|---------|------|
+| [example.md](docs/skills/example.md) | スキル指示書の汎用テンプレート |
