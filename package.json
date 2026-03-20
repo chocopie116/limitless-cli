@@ -1,0 +1,11 @@
+{
+  "name": "limitless-cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "limitless-cli": "./src/index.ts"
+  },
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
